@@ -1,0 +1,8 @@
+{
+    "INVESTMENTS":[
+        {"NAME": "Renda Variavel",      "TYPE": "FIIs",             "PERCENT": 20},
+        {"NAME": "Renda Variavel",      "TYPE": "Ações Dividendos", "PERCENT": 35},
+        {"NAME": "Renda Fixa",          "TYPE": "CDB",              "PERCENT": 35},
+        {"NAME": "Fundo de Emergência", "TYPE": "Tesouro Direto",   "PERCENT": 10}
+    ]
+}

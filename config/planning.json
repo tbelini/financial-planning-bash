@@ -1,0 +1,8 @@
+{
+    "PLANNING":[
+        {"NAME": "Despesas Fixas",  "VARIABLE": "máximo", "PERCENT": 55},
+        {"NAME": "Gastos de Lazer", "VARIABLE": "máximo", "PERCENT": 20},
+        {"NAME": "Investimentos",   "VARIABLE": "mínimo", "PERCENT": 20},
+        {"NAME": "Aposentadoria",   "VARIABLE": "mínimo", "PERCENT": 5}
+    ]
+}

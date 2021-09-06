@@ -1,0 +1,149 @@
+------------------------------------------------------------------------------------------
+-------------------------MODELO DE PLANEJAMENTO FINANCEIRO--------------------------------
+------------------------------------------------------------------------------------------
+
+Despesas Fixas:   55% (máximo)
+Gastos de Lazer:  20% (máximo)
+Investimentos:    20% (mínimo)
+Aposentadoria:    5% (mínimo)
+
+
+
+
+
+------------------------------------------------------------------------------------------
+--------------------------------------APOSENTADORIA---------------------------------------
+------------------------------------------------------------------------------------------
+
+A porcentagem para Aposentadoria é: 5.00% do valor referente ao salário.
+
+O valor de base para Aposentadoria é: R$ 500,00
+O valor atual para Aposentadoria é: R$ 560,00
+
+Renda Fixa:
+Valor Base:   R$ 500,00
+Valor Atual:  R$ 560,00
+
+
+
+
+
+------------------------------------------------------------------------------------------
+---------------------------------DESPESAS FIXAS-------------------------------------------
+------------------------------------------------------------------------------------------
+
+Contabilidade:
+Valor Base:             R$ 100,00
+Valor Atual:            R$ 106,00
+
+TV Cabo:
+Valor Base:             R$ 75,00
+Valor Atual:            R$ 87,73
+
+Celular:
+Valor Base:             R$ 99,99
+Valor Atual:            R$ 99,99
+
+Energia Eletrica:
+Valor Base:             R$ 135,00
+Valor Atual:            R$ 142,17
+
+Imposto:
+Valor Base:             R$ 650,00
+Valor Atual:            R$ 963,41
+
+Plano de Saúde:
+Valor Base:             R$ 1.000,00
+Valor Atual:            R$ 1.050,00
+
+Aluguel:
+Valor Base:             R$ 1.500,00
+Valor Atual:            R$ 1.590,00
+
+Condomínio:
+Valor Base:             R$ 300,00
+Valor Atual:            R$ 350,00
+
+IPTU:
+Valor Base:             R$ 80,00
+Valor Atual:            R$ 89,99
+
+NetFlix:
+Valor Base:             R$ 32,90
+Valor Atual:            R$ 32,90
+
+Disney+:
+Valor Base:             R$ 23,32
+Valor Atual:            R$ 23,32
+
+
+O valor de despesas fixas Base é: R$ 3.996,21
+A porcentagem de despesas fixas Base é: 42.07%
+
+
+O valor de despesas fixas Atual é: R$ 4.535,51
+A porcentagem de despesas fixas Atual é: 42.63%
+
+
+
+
+
+------------------------------------------------------------------------------------------
+---------------------------------DESPESAS DO CARTÃO---------------------------------------
+------------------------------------------------------------------------------------------
+
+Bradesco (MasterCard):
+Valor Base:             R$ 1.500,00
+Valor Atual:            R$ 1.250,20
+
+Bradesco (Visa):
+Valor Base:             R$ 1.500,00
+Valor Atual:            R$ 1.850,56
+
+
+O valor de despesas no cartão Base é: R$ 2.943,78
+A porcentagem de despesas no cartão Base é: 30.99%
+
+
+O valor de despesas no cartão Atual é: R$ 3.044,54
+A porcentagem de despesas no cartão Atual é: 28.61%
+
+
+
+
+
+------------------------------------------------------------------------------------------
+-------------------------------------VALOR RESTANTE---------------------------------------
+------------------------------------------------------------------------------------------
+
+
+O valor Base restante é: R$ 2.560,01
+A porcentagem Base restante é: 26.95%
+
+
+O valor Atual restante é: R$ 3.059,95
+A porcentagem Atual restante é: 28.76%
+
+
+
+
+
+------------------------------------------------------------------------------------------
+---------------------------------SIMULAÇÃO INVESTIMENTO-----------------------------------
+------------------------------------------------------------------------------------------
+
+Renda Variavel (FIIs - 20%):
+Valor Base:                                    R$ 512,00
+Valor Atual:                                   R$ 611,99
+
+Renda Variavel (Ações Dividendos - 35%):
+Valor Base:                                    R$ 896,00
+Valor Atual:                                   R$ 1.070,98
+
+Renda Fixa (CDB - 35%):
+Valor Base:                                    R$ 896,00
+Valor Atual:                                   R$ 1.070,98
+
+Fundo de Emergência (Tesouro Direto - 10%):
+Valor Base:                                    R$ 256,00
+Valor Atual:                                   R$ 305,99

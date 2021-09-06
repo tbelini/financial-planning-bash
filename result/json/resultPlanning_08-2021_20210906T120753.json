@@ -1,0 +1,177 @@
+{
+    "baseSalary": 10000,
+    "currentDate": "08-2021",
+    "currentSalary": 11200,
+    "planning": [
+        {
+            "name": "Despesas Fixas",
+            "percent": 55,
+            "variable": "máximo"
+        },
+        {
+            "name": "Gastos de Lazer",
+            "percent": 20,
+            "variable": "máximo"
+        },
+        {
+            "name": "Investimentos",
+            "percent": 20,
+            "variable": "mínimo"
+        },
+        {
+            "name": "Aposentadoria",
+            "percent": 5,
+            "variable": "mínimo"
+        }
+    ],
+    "retirement": {
+        "percent": 5,
+        "totalBaseValue": 500,
+        "totalCurrentValue": 560,
+        "approachList": [
+            {
+                "name": "Renda Fixa",
+                "percent": 100,
+                "baseValue": 500,
+                "currentValue": 560
+            }
+        ]
+    },
+    "realBaseSalary": 9500,
+    "realCurrentSalary": 10640,
+    "expenses": {
+        "fixed": {
+            "baseAmount": {
+                "totalValue": 3996.21,
+                "percent": 42.07
+            },
+            "currentAmount": {
+                "totalValue": 4535.51,
+                "percent": 42.63
+            },
+            "detailList": [
+                {
+                    "name": "Contabilidade",
+                    "baseValue": 100,
+                    "currentValue": 106
+                },
+                {
+                    "name": "TV Cabo",
+                    "baseValue": 75,
+                    "currentValue": 87.73
+                },
+                {
+                    "name": "Celular",
+                    "baseValue": 99.99,
+                    "currentValue": 99.99
+                },
+                {
+                    "name": "Energia Eletrica",
+                    "baseValue": 135,
+                    "currentValue": 142.17
+                },
+                {
+                    "name": "Imposto",
+                    "baseValue": 650,
+                    "currentValue": 963.41
+                },
+                {
+                    "name": "Plano de Saúde",
+                    "baseValue": 1000,
+                    "currentValue": 1050
+                },
+                {
+                    "name": "Aluguel",
+                    "baseValue": 1500,
+                    "currentValue": 1590
+                },
+                {
+                    "name": "Condomínio",
+                    "baseValue": 300,
+                    "currentValue": 350
+                },
+                {
+                    "name": "IPTU",
+                    "baseValue": 80,
+                    "currentValue": 89.99
+                },
+                {
+                    "name": "NetFlix",
+                    "baseValue": 32.9,
+                    "currentValue": 32.9
+                },
+                {
+                    "name": "Disney+",
+                    "baseValue": 23.32,
+                    "currentValue": 23.32
+                }
+            ]
+        },
+        "card": {
+            "baseAmount": {
+                "totalValue": 2943.78,
+                "percent": 30.99
+            },
+            "currentAmount": {
+                "totalValue": 3044.54,
+                "percent": 28.61
+            },
+            "detailList": [
+                {
+                    "bank": "Bradesco",
+                    "brand": "MasterCard",
+                    "baseValue": 1500,
+                    "currentValue": 1250.2
+                },
+                {
+                    "bank": "Bradesco",
+                    "brand": "Visa",
+                    "baseValue": 1500,
+                    "currentValue": 1850.56
+                }
+            ]
+        }
+    },
+    "remainingBalance": {
+        "baseAmount": {
+            "totalValue": 2560.01,
+            "percent": 26.95
+        },
+        "currentAmount": {
+            "totalValue": 3059.95,
+            "percent": 28.76
+        }
+    },
+    "investment": {
+        "approachList": [
+            {
+                "name": "Renda Variavel",
+                "type": "FIIs",
+                "percent": 20,
+                "baseValue": 512,
+                "currentValue": 611.99
+            },
+            {
+                "name": "Renda Variavel",
+                "type": "Ações Dividendos",
+                "percent": 35,
+                "baseValue": 896,
+                "currentValue": 1070.98
+            },
+            {
+                "name": "Renda Fixa",
+                "type": "CDB",
+                "percent": 35,
+                "baseValue": 896,
+                "currentValue": 1070.98
+            },
+            {
+                "name": "Fundo de Emergência",
+                "type": "Tesouro Direto",
+                "percent": 10,
+                "baseValue": 256,
+                "currentValue": 305.99
+            }
+        ]
+    }
+}

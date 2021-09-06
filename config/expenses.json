@@ -1,0 +1,21 @@
+{
+    "FIXED_ACCOUNT":[
+        {"NAME": "Contabilidade",    "BASE_VALUE": 100.00,    "CURRENT_VALUE": 106.00},
+        {"NAME": "TV Cabo",          "BASE_VALUE": 75.00,     "CURRENT_VALUE": 87.73},
+        {"NAME": "Celular",          "BASE_VALUE": 99.99,     "CURRENT_VALUE": 99.99},
+        {"NAME": "Energia Eletrica", "BASE_VALUE": 135.00,    "CURRENT_VALUE": 142.17},
+        {"NAME": "Imposto",          "BASE_VALUE": 650.00,    "CURRENT_VALUE": 963.41},
+        {"NAME": "Plano de Saúde",   "BASE_VALUE": 1000.00,   "CURRENT_VALUE": 1050.00},
+        {"NAME": "Aluguel",          "BASE_VALUE": 1500.00,   "CURRENT_VALUE": 1590.00},
+        {"NAME": "Condomínio",       "BASE_VALUE": 300.00,    "CURRENT_VALUE": 350.00},
+        {"NAME": "IPTU",             "BASE_VALUE": 80.00,     "CURRENT_VALUE": 89.99}
+    ],
+    "FIXED_CARD":[
+        {"NAME": "NetFlix",             "BASE_VALUE": 32.90,     "CURRENT_VALUE": 32.90},
+        {"NAME": "Disney+",             "BASE_VALUE": 23.32,     "CURRENT_VALUE": 23.32}
+    ],
+    "CARD":[
+        {"BRAND": "MasterCard",   "BANK": "Bradesco",   "BASE_VALUE": 1500.00,  "CURRENT_VALUE": 1250.20},
+        {"BRAND": "Visa",         "BANK": "Bradesco",   "BASE_VALUE": 1500.00,  "CURRENT_VALUE": 1850.56}
+    ]
+}
